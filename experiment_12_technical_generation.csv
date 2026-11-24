@@ -1,0 +1,7 @@
+
+Task_ID,Topic,Audience,Task_Description,Requirements
+TG101,CSV Data Analysis,Data science students,Calculate the average of a numeric CSV column,Use Pandas and validate the column
+TG102,Temperature Conversion,Python beginners,Convert Celsius temperature into Fahrenheit,Validate numeric input and return the result
+TG103,Password Validation,Application developers,Check whether a password meets security rules,Check length uppercase lowercase digit and special character
+TG104,List Statistics,Python beginners,Find minimum maximum and range of list values,Handle empty lists
+TG105,Text Analysis,Language learners,Analyze a text and count total and unique words,Remove punctuation and ignore letter case

@@ -1,0 +1,7 @@
+
+Prompt_ID,Task,Weak_Prompt,Improved_Prompt
+P101,Explain photosynthesis,Explain photosynthesis,"Act as a science teacher. Explain photosynthesis to a student in under 100 words using bullet points and one example."
+P102,Write a formal email,Write an email,"Act as a communication manager. Draft a formal email for a college student requesting leave in under 100 words. Include a subject."
+P103,Python debugging,Fix my code,"Act as a Python programming expert. Review this project code, identify errors, and explain the corrections in five bullet points."
+P104,Summarize a report,Summarize this,"You are a report analyst. Summarize the report for a manager in under 150 words using bullet points."
+P105,Compare algorithms,Compare these algorithms,"Act as a computer science teacher. Compare these algorithms and present the result in a table with one example."

@@ -1,0 +1,7 @@
+
+Example_ID,Role,Task,Technique,Input_Text,Example_Input,Example_Output
+T101,Sentiment analyst,Classify review sentiment,Zero-Shot,The delivery was quick and the product works perfectly.,,
+T102,Customer feedback analyst,Classify review sentiment,One-Shot,The battery stopped working after one day.,The service was excellent and helpful.,Positive
+T103,Product review analyst,Classify review sentiment,Few-Shot,The camera quality is poor and the screen is dull.,,
+T104,Academic writing tutor,Rewrite the sentence professionally,Role-Based,"hey, send me the project file now",,
+T105,Support analyst,Classify ticket priority,Few-Shot,The application is unavailable for every user.,,

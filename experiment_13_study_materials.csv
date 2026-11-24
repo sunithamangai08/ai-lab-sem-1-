@@ -1,0 +1,8 @@
+
+Topic,Concept,Explanation,Keywords,Quiz_Question,Difficulty,Answer
+Python,Functions,"A function is a reusable block of code that performs a specific task. Functions help organize programs and avoid repeated code.",function reusable code parameters,What is a function in Python?,Easy,A reusable block of code
+Python,Lists,"A list is an ordered and changeable collection of elements. Lists allow duplicate values and support indexing.",list elements indexing collection,How are list elements accessed?,Easy,Using index positions
+Artificial Intelligence,Machine Learning,"Machine learning enables computers to learn patterns from data and make predictions without being explicitly programmed for every task.",machine learning data training prediction,What is machine learning?,Medium,Learning patterns from data
+Artificial Intelligence,Neural Networks,"A neural network is a computational model inspired by connected neurons. It contains layers of nodes that learn patterns through training.",neural network neurons nodes layers,What are the basic units in a neural network commonly called?,Medium,Nodes or neurons
+Data Science,Data Cleaning,"Data cleaning is the process of identifying and correcting missing values, duplicate records and incorrect data to improve data quality.",data cleaning missing values duplicates,Why is data cleaning important?,Easy,To improve data quality
+Data Science,Data Visualization,"Data visualization represents information using charts and graphs. It helps users understand patterns, trends and relationships in data.",data visualization charts graphs trends,Name two common data visualization charts.,Easy,Bar chart and line chart
